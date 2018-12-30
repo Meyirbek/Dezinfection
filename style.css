@@ -30,12 +30,12 @@ div a{
     padding: 0;
 }
 .bg1{
-    background: url("img/gol.jpg");
+    background: url("images/gol.jpg");
    width: 100%;
     background-size: 100% 100vh ;
 }
 .bg{
-    background: url("img/111.jpg" );
+    background: url("images/111.jpg" );
     width: 100%;
     background-size: 100% 100vh;
     
